@@ -1,0 +1,2 @@
+# ssdClientServer
+ ssdpy Client Server
